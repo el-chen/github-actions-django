@@ -1,5 +1,5 @@
 # name of our workflow
-name: Django CI/CD Workflow
+name: Django CI/CD Workflow v1
 
 # triggers for our workflow
 on:
